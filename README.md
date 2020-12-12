@@ -1,4 +1,4 @@
-# Ada Lab File for Semester - 3 Manav Rachna University
+# Design of Algorithm and Analysis Lab File
 
 ## All programs are written in C language with my name in between them🙏
 
@@ -18,5 +18,10 @@
 - Bucket Sort
 - Strassen Matrix Multiplication
 - Job Scheduling Problem with Deadline
+
+### PT - 3
+- Knapsack Problem
+- Prim Algorithm for shortest path
+- Kruskal Algorithm
 
 Time taken by the program is also calculated in each program
